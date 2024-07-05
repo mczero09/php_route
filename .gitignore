@@ -1,0 +1,8 @@
+**/dump.sql
+assets/bootstrap-4.6/
+dist/
+info.txt
+.env
+node_modules/
+vendor/
+/$__*/
